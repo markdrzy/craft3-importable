@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="256px" height="256px" viewBox="0 0 256 256" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 46.2 (44496) - http://www.bohemiancoding.com/sketch -->
+    <title>Artboard</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#F0F0F0" offset="0%"></stop>
+            <stop stop-color="#DDDDDD" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="-1.11022302e-14%" x2="50%" y2="100%" id="linearGradient-2">
+            <stop stop-color="#C8C8C8" offset="0%"></stop>
+            <stop stop-color="#979797" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-3">
+            <stop stop-color="#C8C8C8" offset="0%"></stop>
+            <stop stop-color="#979797" offset="100%"></stop>
+        </linearGradient>
+        <radialGradient cx="50%" cy="173.652683%" fx="50%" fy="173.652683%" r="173.652683%" gradientTransform="translate(0.500000,1.736527),scale(1.000000,1.000000),rotate(-90.000000),translate(-0.500000,-1.736527)" id="radialGradient-4">
+            <stop stop-color="#FFFFFF" offset="0%"></stop>
+            <stop stop-color="#000000" offset="100%"></stop>
+        </radialGradient>
+        <polygon id="path-5" points="37.9023438 100.394531 37.9023438 63.1875 0.40234375 63.1875 0.40234375 37.5039062 37.9023438 37.5039062 37.9023438 0.296875 62.9023438 0.296875 62.9023438 37.5039062 100.5 37.5039062 100.5 63.1875 62.9023438 63.1875 62.9023438 100.394531"></polygon>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard">
+            <g id="icon">
+                <g id="Rectangle">
+                    <g id="path-2-link" fill-rule="nonzero" fill="url(#linearGradient-1)">
+                        <rect id="path-2" x="0" y="0" width="256" height="256" rx="48"></rect>
+                    </g>
+                    <rect id="Rectangle-path" stroke="#CCCCCC" stroke-width="4" x="2" y="2" width="252" height="252" rx="48"></rect>
+                </g>
+                <g id="Group" opacity="0.6" transform="translate(38.000000, 47.000000)" fill-rule="nonzero" stroke="#979797" stroke-width="4">
+                    <g id="Header">
+                        <rect id="Rectangle-2" fill="url(#linearGradient-2)" x="60" y="0" width="60" height="20"></rect>
+                        <rect id="Rectangle-2-Copy" fill="url(#linearGradient-3)" x="120" y="0" width="60" height="20"></rect>
+                        <rect id="Rectangle-2-Copy" fill="url(#linearGradient-3)" x="0" y="0" width="60" height="20"></rect>
+                    </g>
+                    <g id="Row-1" transform="translate(0.000000, 21.000000)" fill="#FFFFFF">
+                        <rect id="Rectangle-2" x="60" y="0" width="60" height="20"></rect>
+                        <rect id="Rectangle-2-Copy" x="120" y="0" width="60" height="20"></rect>
+                        <rect id="Rectangle-2-Copy" x="0" y="0" width="60" height="20"></rect>
+                    </g>
+                    <g id="Row-2" transform="translate(0.000000, 41.000000)" fill="#F2F2F2">
+                        <rect id="Rectangle-2" x="60" y="0" width="60" height="20"></rect>
+                        <rect id="Rectangle-2-Copy" x="120" y="0" width="60" height="20"></rect>
+                        <rect id="Rectangle-2-Copy" x="0" y="0" width="60" height="20"></rect>
+                    </g>
+                    <g id="Row-3" transform="translate(0.000000, 61.000000)" fill="#FFFFFF">
+                        <rect id="Rectangle-2" x="60" y="0" width="60" height="20"></rect>
+                        <rect id="Rectangle-2-Copy" x="120" y="0" width="60" height="20"></rect>
+                        <rect id="Rectangle-2-Copy" x="0" y="0" width="60" height="20"></rect>
+                    </g>
+                    <g id="Row-2" opacity="0.7" transform="translate(0.000000, 81.000000)" fill="#F2F2F2">
+                        <rect id="Rectangle-2" x="60" y="0" width="60" height="20"></rect>
+                        <rect id="Rectangle-2-Copy" x="120" y="0" width="60" height="20"></rect>
+                        <rect id="Rectangle-2-Copy" x="0" y="0" width="60" height="20"></rect>
+                    </g>
+                    <g id="Row-5" opacity="0.4" transform="translate(0.000000, 101.000000)" fill="#FFFFFF">
+                        <rect id="Rectangle-2" x="60" y="0" width="60" height="20"></rect>
+                        <rect id="Rectangle-2-Copy" x="120" y="0" width="60" height="20"></rect>
+                        <rect id="Rectangle-2-Copy" x="0" y="0" width="60" height="20"></rect>
+                    </g>
+                    <g id="Row-6" opacity="0.2" transform="translate(0.000000, 121.000000)" fill="#F2F2F2">
+                        <rect id="Rectangle-2" x="60" y="0" width="60" height="20"></rect>
+                        <rect id="Rectangle-2-Copy" x="120" y="0" width="60" height="20"></rect>
+                        <rect id="Rectangle-2-Copy" x="0" y="0" width="60" height="20"></rect>
+                    </g>
+                    <g id="Row-7" opacity="0.1" transform="translate(0.000000, 141.000000)" fill="#FFFFFF">
+                        <rect id="Rectangle-2" x="60" y="0" width="60" height="20"></rect>
+                        <rect id="Rectangle-2-Copy" x="120" y="0" width="60" height="20"></rect>
+                        <rect id="Rectangle-2-Copy" x="0" y="0" width="60" height="20"></rect>
+                    </g>
+                </g>
+                <g id="+" transform="translate(77.000000, 77.000000)" fill-rule="nonzero">
+                    <g id="Group">
+                        <g id="path-4-link">
+                            <g id="path-4">
+                                <use fill="url(#radialGradient-4)" fill-rule="evenodd" xlink:href="#path-5"></use>
+                                <path stroke="#FFFFFF" stroke-width="6" d="M34.9023438,66.1875 L-2.59765625,66.1875 L-2.59765625,34.5039062 L34.9023438,34.5039062 L34.9023438,-2.703125 L65.9023438,-2.703125 L65.9023438,34.5039062 L103.5,34.5039062 L103.5,66.1875 L65.9023438,66.1875 L65.9023438,103.394531 L34.9023438,103.394531 L34.9023438,66.1875 Z"></path>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

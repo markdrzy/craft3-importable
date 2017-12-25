@@ -1,0 +1,24 @@
+[data-importable="active"] .btn.importable-hudbutton {
+  margin-top: -32px;
+  box-shadow: none;
+  background: transparent;
+}
+.importable-hud .option-wrap .option-title {
+  cursor: pointer;
+}
+.importable-hud .option-wrap .option-title.icon::after {
+  padding-left: 8px;
+  vertical-align: baseline;
+}
+.importable-hud .option-wrap[data-state="collapsed"] .options {
+  display: none;
+}
+.importable-hud .option-wrap[data-state="expanded"] .option-title {
+  margin-bottom: 8px;
+}
+.importable-hud .option-wrap[data-state="expanded"] .option-title.icon::after {
+  content: "downangle";
+}
+.importable-hud .option-wrap[data-state="expanded"] .options {
+  display: block;
+}
