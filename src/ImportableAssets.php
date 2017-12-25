@@ -9,7 +9,7 @@ class ImportableAssets extends AssetBundle
 {
   public function init()
   {
-    $this->sourcePath = '@clickrain/importable/resources';
+    $this->sourcePath = '@markdrzy/importable/resources';
 
     $this->depends = [
       CpAsset::class,
