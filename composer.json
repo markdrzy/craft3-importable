@@ -1,5 +1,5 @@
 {
-    "name": "markdrzy/craft3-importable",
+    "name": "markdrzy/importable",
     "description": "Add CSV data import functionality to the native Table fieldtype.",
     "type": "craft-plugin",
     "version": "1.0.0",
