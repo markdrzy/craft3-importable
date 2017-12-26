@@ -73,9 +73,10 @@
 
       var message = (valid)?
         'The data appears to be valid.':
-        'The data provided contains the following error' + (errors.length > 1? 's': '') + ':' +
+        'The provided data contains the following error' + (errors.length > 1? 's': '') + ':' +
           '\n\n\t- ' + errors.join('\n\n\t- ') + '\n\n' +
-          'If the import proceeds, data may be truncated. Click OK to proceed.';
+          ((over > 0)? 'If the import proceeds, data may be truncated. ': '') +
+          'Click OK to proceed with the import.';
 
       return {
         valid: valid,
