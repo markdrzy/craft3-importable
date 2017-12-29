@@ -46,8 +46,10 @@ class Importable extends Plugin
         self::$plugin = $this;
 
         // Load Asset Bundle
-        Craft::$app->getView()->registerAssetBundle(ImportableAssets::class);
-        Craft::$app->getView()->registerJs('Craft.importablePlugin.init({});');
+        if ( Craft::$app->request->getIsCpRequest() ) {
+          Craft::$app->getView()->registerAssetBundle(ImportableAssets::class);
+          Craft::$app->getView()->registerJs('Craft.importablePlugin.init({});');
+        }
 
         Craft::info(
             Craft::t(
