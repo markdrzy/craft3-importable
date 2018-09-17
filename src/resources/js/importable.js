@@ -105,7 +105,7 @@
     addImportButtons: function() {
       var self = this;
       var main = $('#main');
-      var tableFields = main.find('.field[data-type="craft\\\\fields\\\\Table"]:not([data-importable])');
+      var tableFields = main.find('.field[data-type="craft\\\\fields\\\\Table"]:not([data-importable]), .field[data-type="supercool\\\\tablemaker\\\\fields\\\\TableMakerField"] #fields-tiers-rows-field:not([data-importable])');
 
       tableFields.each(function() {
         $('.input', this).append('<div class="btn icon ' + self.settings.importButtonSelector + ' right" data-icon="list">Import</div>');
