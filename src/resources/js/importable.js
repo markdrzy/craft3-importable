@@ -113,7 +113,10 @@
       });
     },
     render: function() {
-      this.addImportButtons();
+      var self = this;
+      setTimeout(function() {
+        self.addImportButtons();
+      }, 1000);
     },
     templates: {
       importHud: function() {
